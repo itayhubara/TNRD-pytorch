@@ -1,5 +1,5 @@
 # TNRD-pytorch
-Trainable Nonlinear Reaction Diffusion: A Flexible Framework for Fast and Effective Image Restoration - unofficial pytorch implementation 
+[Trainable Nonlinear Reaction Diffusion: A Flexible Framework for Fast and Effective Image Restoration](https://ieeexplore.ieee.org/document/7527621) - unofficial pytorch implementation 
 
 This folder is based on https://github.com/kligvasser/xUnit/tree/master/denoising and aim to bring back to life the use of TNRD based architechture. Note that TNRD model has very few parameters while achieving high PSNR on several tasks. 
 
